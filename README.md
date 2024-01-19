@@ -19,7 +19,7 @@ Stop being ripped off, and launch this bot now!
 
 ## Getting Started
 
-Provide instructions on how to get your project up and running.
+Here are the instructions for using the bot.
 
 ### Installation
 
@@ -32,8 +32,14 @@ apt-get update
 apt-get upgrade
 git clone "git_url
 cd /Almanax_bot
+chmod 744 bot.py
 ```
 
+Then edit the "bot.py" file to modify the variables inside.
+
+```bash
+nano bot.py
+```
 ### Requirements
 
 Next, you'll need to install the packages required to run the script. To do this, run the following command:
