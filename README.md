@@ -30,7 +30,7 @@ As soon as your space is ready, install the python3, pip and git packages and cl
 apt-get install git pip pyhton3
 apt-get update
 apt-get upgrade
-git clone "git_url
+git clone "git_url"
 cd /Almanax_bot
 chmod 744 bot.py
 ```
