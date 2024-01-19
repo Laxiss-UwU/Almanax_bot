@@ -6,7 +6,8 @@ from datetime import datetime
 import schedule
 import asyncio
 
-#Your discord bot token. Go to https://discord.com/developers/applications and create an application. Here you have a tutorial for this : https://www.ionos.fr/digitalguide/serveur/know-how/creer-un-bot-discord/#:~:text=Cliquez%20sur%20%C2%AB%20Discord%20API%20%C2%BB.,sous%20%C2%AB%20Ajouter%20un%20Bot%20%C2%BB.
+#Your discord bot token. Go to https://discord.com/developers/applications and create an application. 
+#Here you have a tutorial for this : https://www.ionos.fr/digitalguide/serveur/know-how/creer-un-bot-discord/#:~:text=Cliquez%20sur%20%C2%AB%20Discord%20API%20%C2%BB.,sous%20%C2%AB%20Ajouter%20un%20Bot%20%C2%BB.
 TOKEN_BOT = "your_token"
 
 #lang = "fr" or "en" or others
