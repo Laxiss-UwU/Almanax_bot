@@ -40,6 +40,7 @@ Next, you'll need to install the packages required to run the script. To do this
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Launch
 
@@ -47,6 +48,7 @@ Now you can run the script:
 
 ```bash
 python3 bot.py
+```
 
 ## Contributing
 
