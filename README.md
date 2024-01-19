@@ -26,7 +26,7 @@ Provide instructions on how to get your project up and running.
 To install this bot you'll need a machine: whether it's a computer, a server, a virtual machine... the choice is yours! (a container or virtual machine is recommended).
 As soon as your space is ready, install the python3, pip and git packages and clone this repo:
 
-'''bash
+```bash
 apt-get install git, pip, pyhton3
 apt-get update
 apt-get upgrade
@@ -37,14 +37,14 @@ cd /Almanax_bot
 
 Next, you'll need to install the packages required to run the script. To do this, run the following command:
 
-'''bash
+```bash
 pip install -r requirements.txt
 
 ### Launch
 
 Now you can run the script:
 
-'''bash
+```bash
 python3 bot.py
 
 ## Contributing
