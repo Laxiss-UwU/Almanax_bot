@@ -1,6 +1,6 @@
 # Dofus: Almanax bot
 
-Python bot who will send in a discord channel information about the daily almanax quest.
+Python bot which will send in a discord channel information about the daily almanax quest.
 
 ## Table of Contents
 
