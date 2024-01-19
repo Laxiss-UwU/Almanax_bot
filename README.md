@@ -32,6 +32,7 @@ apt-get update
 apt-get upgrade
 git clone "git_url
 cd /Almanax_bot
+```bash
 
 ### Requirements
 
