@@ -10,7 +10,7 @@ Python bot who will send in a discord channel information about the daily almana
   - [Requirements](#prerequisites)
   - [Launch](#launch)
 - [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+- [Credits](#credits)
 
 ## Introduction
 
