@@ -35,7 +35,7 @@ async def on_ready():
         await asyncio.sleep(1)
     #"""
 
-    #If you want to make a test of your message, uncomment lines 27, 35 and 38
+    #If you want to make a test of your message, uncomment lines 28, 36 and 39
     #send_daily_message()
 
 #Function to keep information about daily almanax and send them in a discord channel
