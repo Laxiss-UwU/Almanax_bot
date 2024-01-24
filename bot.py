@@ -25,7 +25,6 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 async def on_ready():
     print("Bot is ready !")
 
-    #"""
     #Message schedule everydady at X o'clock 
     schedule.every().day.at("00:01").do(send_daily_message)
 
@@ -33,9 +32,8 @@ async def on_ready():
     while True:
         schedule.run_pending()
         await asyncio.sleep(1)
-    #"""
 
-    #If you want to make a test of your message, uncomment lines 28, 36 and 39
+    #If you want to make a test of your message, uncomment 37th line and comment lines from the 29th to the 34th
     #send_daily_message()
 
 #Function to keep information about daily almanax and send them in a discord channel
