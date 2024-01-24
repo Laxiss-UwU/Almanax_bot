@@ -27,7 +27,7 @@ To install this bot you'll need a machine: whether it's a computer, a server, a 
 As soon as your space is ready, install the python3, pip and git packages and clone this repo:
 
 ```bash
-sudo apt-get install git pip python3 -y
+sudo apt-get install git pip python3 pip git -y
 sudo apt-get update -y
 sudo apt-get upgrade -y
 git clone "git_url"
