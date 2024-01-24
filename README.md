@@ -1,4 +1,4 @@
-# VersionEN (version française plus bas)
+# VersionEN
 
 Python bot which will send in a discord channel information about the daily almanax quest.
 
