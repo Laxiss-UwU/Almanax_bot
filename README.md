@@ -79,7 +79,7 @@ Voici un bot codé en python qui enverra dans un channel discord toutes les info
     - [Installation](#installation)
     - [Prérequis](#prérequis)
     - [Lancement](#lancement)
-  - [Contributions](#contributions)
+  - [Contribution](#contributions)
   - [Crédits](#crédits)
 
 ## Intro
