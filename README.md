@@ -1,4 +1,4 @@
-# Dofus: Almanax bot (version française plus bas)
+# VersionEN (version française plus bas)
 
 Python bot which will send in a discord channel information about the daily almanax quest.
 
@@ -73,13 +73,14 @@ Voici un bot codé en python qui enverra dans un channel discord toutes les info
 
 ## Sommaire
 
-- [Intro](#intro)
-- [Premiers pas](#premiers-pas)
-  - [Installation](#installation)
-  - [Prérequis](#prérequis)
-  - [Lancement](#lancement)
-- [Contributions](#contributions)
-- [Crédits](#crédits)
+- [VersionEN](#versionen)
+  - [Intro](#intro)
+  - [Premiers pas](#premiers-pas)
+    - [Installation](#installation)
+    - [Prérequis](#prérequis)
+    - [Lancement](#lancement)
+  - [Contributions](#contributions)
+  - [Crédits](#crédits)
 
 ## Intro
 
