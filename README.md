@@ -1,10 +1,10 @@
-# VersionEN
+# [EN] Almanax
 
 Python bot which will send in a discord channel information about the daily almanax quest.
 
 ## Table of Contents
 
-- [VersionFR](#versionfr)
+- [Version française](#[FR] Almanax)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
     - [Setup](#setup)
@@ -67,13 +67,13 @@ Enjoy the game!
 Made by KC_Laxiss.
 
 -----------------------------------------------------------------------------------------------
-# VersionFR
+# [FR] Almanax
 
 Voici un bot codé en python qui enverra dans un channel discord toutes les informations à propos de l'almanax du jour.
 
 ## Sommaire
 
-- [VersionEN](#versionen)
+- [English version](#[EN] Almanax)
   - [Intro](#intro)
   - [Premiers pas](#premiers-pas)
     - [Installation](#installation)
