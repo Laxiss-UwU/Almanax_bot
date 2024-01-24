@@ -2,4 +2,3 @@ requests
 discord.py
 schedule
 asyncio
-json
