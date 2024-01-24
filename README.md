@@ -31,7 +31,7 @@ sudo apt-get install git pip python3 pip git -y
 sudo apt-get update -y
 sudo apt-get upgrade -y
 git clone https://github.com/Laxiss-UwU/Almanax_bot.git
-cd /Almanax_bot
+cd Almanax_bot/
 chmod 744 bot.py
 ```
 
