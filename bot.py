@@ -19,7 +19,7 @@ channel_name = "set_me"
 #Basic intents for discord bot
 intents = discord.Intents.default()
 intents.messages = True
-bot = commands.Bot(intents=intents)
+bot = commands.Bot(command_prefix="!", intents=intents)
 
 @bot.event
 async def on_ready():
