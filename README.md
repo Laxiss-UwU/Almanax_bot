@@ -1,4 +1,4 @@
-# [EN] Almanax
+# [EN] Almanax quest discord bot
 
 Python bot which will send in a discord channel information about the daily almanax quest.
 
@@ -67,7 +67,7 @@ Enjoy the game!
 Made by KC_Laxiss.
 
 -----------------------------------------------------------------------------------------------
-# [FR ]Almanax
+# [FR] Bot discord pour la quête de l'almanax
 
 Voici un bot codé en python qui enverra dans un channel discord toutes les informations à propos de l'almanax du jour.
 
