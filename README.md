@@ -4,14 +4,14 @@ Python bot which will send in a discord channel information about the daily alma
 
 ## Table of Contents
 
-- [Version française](#versionfr)
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Requirements](#requirements)
-  - [Launch](#launch)
-- [Contributing](#contributing)
-- [Credits](#credits)
+- [VersionFR](#versionfr)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+    - [Setup](#setup)
+    - [Requirements](#requirements)
+    - [Launch](#launch)
+  - [Contributing](#contributing)
+  - [Credits](#credits)
 
 ## Introduction
 
@@ -67,7 +67,7 @@ Enjoy the game!
 Made by KC_Laxiss.
 
 -----------------------------------------------------------------------------------------------
-# Version française
+# VersionFR
 
 Voici un bot codé en python qui enverra dans un channel discord toutes les informations à propos de l'almanax du jour.
 
