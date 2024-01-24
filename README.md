@@ -27,9 +27,9 @@ To install this bot you'll need a machine: whether it's a computer, a server, a 
 As soon as your space is ready, install the python3, pip and git packages and clone this repo:
 
 ```bash
-apt-get install git pip pyhton3
-apt-get update
-apt-get upgrade
+sudo apt-get install git pip python3
+sudo apt-get update
+sudo apt-get upgrade
 git clone "git_url"
 cd /Almanax_bot
 chmod 744 bot.py
