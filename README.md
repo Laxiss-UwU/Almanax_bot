@@ -59,7 +59,7 @@ python3 bot.py
 
 ## Contributing
 
-Your bot is now functional! If you'd like to thank me for this work, don't hesitate to send me a message or give me kamas on Dofus (nickname: Chat-Qal on Draconiros server).
+Your bot is now functional! If you'd like to thank me for this work, don't hesitate to send me a message !
 Enjoy the game!
 
 ## Credits
@@ -129,7 +129,7 @@ python3 bot.py
 
 ## Contribution
 
-Votre bot est maintenant fonctionnel ! Si vous souhaitez me remercier pour ce travail, n'hésitez pas à m'envoyer un message ou à me donner des kamas sur Dofus (pseudo : Chat-Qal sur le serveur Draconiros).
+Votre bot est maintenant fonctionnel ! Si vous souhaitez me remercier pour ce travail, n'hésitez pas à m'envoyer un message !
 Bon jeu à tous !
 
 ## Crédits
